@@ -51,6 +51,14 @@
   (there are many things but this is just to get the gist of it)
 <div style=" margin: 10px; position: relative;"><img allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/publicSegments/view/585a058f-f58d-4a97-91b3-a4727b3b2392/image.png" id="J~.dWY.sDlVO"></img></div>
 
+### Search and Flights Service
+ - Create Flights
+ - Delete Flights
+ - Update Flights
+ - Search for Flights
+     - Based on multiple criteria we can search for flights
+     - pagination
+
 
 
 
