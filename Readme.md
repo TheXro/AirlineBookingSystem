@@ -45,8 +45,11 @@
 - Storage extimates
   - for upcoming 5 years, 80,00,000 bookings, 2,00,000 Users, Considering  all the users records and booking take 10 MB of data then overall 10 TB of memory should be fine for our pilot run.
 - Traffic extimatses -if we consider 30:1 as the search:booking ratio, then at max we expect 150000 search queries a day. 2 query/s
-    
 
+
+    # High level system design
+  (there are many things but this is just to get the gist of it)
+<div style=" margin: 10px; position: relative;"><img allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/publicSegments/view/585a058f-f58d-4a97-91b3-a4727b3b2392/image.png" id="J~.dWY.sDlVO"></img></div>
 
 
 
